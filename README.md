@@ -39,9 +39,7 @@ A sleek, responsive calculator built using pure **HTML, CSS, and JavaScript**. D
 
 ## 📸 Preview
 
-<div align="center">
-  <img src="image.png" width="600">
-</div>
+  ![Calculator Image](image.png)
 
 ---
 
